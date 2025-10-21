@@ -43,5 +43,5 @@ Detección de las productoras más rentables.
 Tendencias globales y evolución histórica de los géneros más influyentes.
 
 
-#### Conclusiones
+### CONCLUSIONES
 En Tableau se incluye un último dashboard con las conclusiones generales del análisis gráfico realizado.
