@@ -44,4 +44,4 @@ Tendencias globales y evolución histórica de los géneros más influyentes.
 
 
 ### CONCLUSIONES
-En Tableau se incluye un último dashboard con las conclusiones generales del análisis gráfico realizado.
+En Tableau se incluye un dashboard final con las conclusiones generales del análisis gráfico realizado.
