@@ -41,3 +41,7 @@ Detección de las productoras más rentables.
 #### Rentabilidad por género a lo largo del tiempo y distribución por continente 
 
 Tendencias globales y evolución histórica de los géneros más influyentes.
+
+
+#### Conclusiones
+En Tableau se incluye un último dashboard con las conclusiones generales del análisis gráfico realizado.
